@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'myapp', # Add the app to the list of installed apps
+    'http_methods', 
 ]
 
 MIDDLEWARE = [
